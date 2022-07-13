@@ -9,3 +9,4 @@ const rawFile = 'test.txt';
 after that run below command
 
 node file-compress-and-decompress.js
+ 
